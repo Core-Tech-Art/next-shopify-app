@@ -1,4 +1,4 @@
-# Next.js + Tailwind CSS + Shopify Starter
+# Next.js + Tailwind CSS + Shopify Remining Project
 
 <div align="center">
 <img src="https://github.com/Core-Tech-Art/next-shopify-app/blob/main/public/images/demo-store.gif">
