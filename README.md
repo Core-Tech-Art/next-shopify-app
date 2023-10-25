@@ -2,9 +2,6 @@
 
 <div align="center">
 <img src="https://github.com/Core-Tech-Art/next-shopify-app/blob/main/public/images/demo-store.gif">
-<p align="center">
-  <a href="https://nextails.com/">See more starters</a>
-</p>
 </div>
 
 This is a fully functional eCommerce store that uses Next.js + Tailwind CSS in the front end and leverages the Shopify Storefront API to interact with your Shopify backend. 
