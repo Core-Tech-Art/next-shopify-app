@@ -12,41 +12,6 @@ This is a fully functional eCommerce store that uses Next.js + Tailwind CSS in t
 We use GraphQL to query our Shopify data and store the cart information in localStorage to persist user session. Finally - we use Shopify Checkout to let the user
 purchase the items. You can see this play out in the example store. Yes - the store is functional and you can buy the stickers. :smiley:
 
-## High Performance
-
-<table align="center">
-  <thead>
-    <tr>
-      <td>Desktop</td>
-      <td>Mobile</td>
-    <tr>
-  </thead>
-  <tbody>
-  <tr>
-    <td valign="top"><img width="300" height="300" src="https://github.com/Core-Tech-Art/next-shopify-app/blob/main/public/images/desktop-lighthouse.png"/></td>
-    <td valign="top"><img width="300" height="300" src="https://github.com/Core-Tech-Art/next-shopify-app/blob/main/public/images/mobile-lighthouse.png"/></td>
-  </tr>
-  </tbody>
-</table>
-
-## Mobile Responsive
-
-<table align="center">
-  <thead>
-    <tr>
-      <td>Listings</td>
-      <td>Cart</td>
-    <tr>
-  </thead>
-  <tbody>
-  <tr>
-    <td valign="top"><img width="300" height="300" src="https://github.com/Core-Tech-Art/next-shopify-app/blob/main/public/images/responsive-main.gif"/></td>
-    <td valign="top"><img width="300" height="300" src="https://github.com/Core-Tech-Art/next-shopify-app/blob/main/public/images/responsive-cart.gif"/></td>
-  </tr>
-  </tbody>
-</table>
-
-
 ## The Tech
 
 * Next.js + Tailwind CSS
